@@ -1,0 +1,16 @@
+body{
+background: darkcyan;
+}
+
+#select{
+width: 30%;
+}
+
+#text_area{
+width: 80%;
+}
+
+h1{
+background: yellow;
+padding: 15px;
+}
